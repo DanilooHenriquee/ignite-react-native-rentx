@@ -118,7 +118,7 @@ export function SchedulingDetails() {
             </Header>
 
             <CarImages>
-                <ImageSlider imageUrl={car.photos} />
+                <ImageSlider imagesUrl={car.photos} />
             </CarImages>
 
             <Content>
